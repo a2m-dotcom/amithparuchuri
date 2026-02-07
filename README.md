@@ -17,7 +17,7 @@
 
 ## 🚀 Featured Public Projects
 
-### 🧬 EEG Spectrogram Classification for Schizophrenia (ASZED)
+### 🧬 [EEG Spectrogram Classification for Schizophrenia (ASZED)](https://github.com/amithparuchuri/eeg-schizophrenia-spectrogram-classification)
 Deep learning on EEG-derived spectrogram images using PyTorch.
 
 ### 🧠 Prostate Cancer Grading from Multi-slice MRI (PI-CAI)
